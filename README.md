@@ -22,6 +22,9 @@
   <a href="https://twitter.com/SigNozHq"><b>Twitter</b></a>
 </h3>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjai-deepsource%2Fsignoz.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjai-deepsource%2Fsignoz?ref=badge_large)
+
 ##
 
 SigNoz helps developers monitor applications and troubleshoot problems in their deployed applications. SigNoz uses distributed tracing to gain visibility into your software stack.
@@ -34,6 +37,7 @@ SigNoz helps developers monitor applications and troubleshoot problems in their 
 
 
 ![SigNoz Feature](https://signoz-public.s3.us-east-2.amazonaws.com/signoz_hero_github.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjai-deepsource%2Fsignoz.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjai-deepsource%2Fsignoz?ref=badge_shield)
 
 <br /><br />
 
@@ -157,6 +161,3 @@ As always, thanks to our amazing contributors!
 <a href="https://github.com/signoz/signoz/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=signoz/signoz" />
 </a>
-
-
-
